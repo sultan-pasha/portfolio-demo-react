@@ -9,6 +9,7 @@ It demonstrates clean component architecture, state management using Redux Toolk
 > 🛡️ The original source code for the SASKE Company production version is private.  
 > This repository is for portfolio and learning purposes only.
 ---
+
 ## 📌 Live Demo
 
 🟢 **Live Preview**: [SASKE Company Portfolio](https://saske.pages.dev)  
@@ -69,13 +70,18 @@ portfolio-demo-react/
 ├── README.md
 └── LICENCE.md
 ```
-
+---
 [Screenshot - English site](./screenshots/hero-en.png)
 [Screenshot - Arabic site](./screenshots/hero-ar.png)
 
 All branding, design, and production implementations are the property of Sultan Abdelkareem / SASKE Company.
 Unauthorized reuse, replication, or commercial usage is prohibited.
+---
+## 🔐 License
 
+This project is released as a demo version for learning and presentation purposes only.  
+Please review the [LICENSE](./LICENSE.md) for terms and restrictions.
+---
 # 👤 Author
 
 ## Sultan Abdelkareem
