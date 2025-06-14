@@ -3,7 +3,7 @@
 This is a **demo version** of a real-world portfolio website originally built for SASKE Company.  
 The site showcases frontend architecture, multilingual support, and clean UI design.
 
-🟢 **Live Preview**: [https://sultan-pasha.github.io/portfolio-demo-react/](#)  
+🟢 **Live Preview**: [SASKE Company Portfolio](https://saske.pages.dev)  
 📌 **Note**: The original production code is proprietary. This is a public demo version.
 
 ---
